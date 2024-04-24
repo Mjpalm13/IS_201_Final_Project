@@ -1,0 +1,69 @@
+p {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#top {
+    border: 1px solid black;
+}
+
+body {
+    background-image: url("../assets/img/cool_background.jpeg");
+    background-size: contain;
+    background-color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 5px solid skyblue;
+    margin: 50px;
+    padding: 50px;
+}
+
+ol {
+    list-style-position: inside;
+    font-weight: bold;
+}
+
+ul {
+    margin: 10px 0px 10px 0px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    list-style-position: inside;
+    font-weight: lighter;
+    text-align: left;
+}
+
+li {
+    list-style-position: inside;
+    text-align: left;
+}
+
+.header-title {
+    text-align: center;
+    color: black;
+    background-color: rgb(147, 202, 224);
+    padding: 20px 20px 20px 20px;
+}
+
+.bread-crumb {
+    text-align: center;
+}
+
+.header-img-container {
+    width: calc(100% - 40px);
+    padding: 20px 20px 20px 20px;
+    background-color: rgb(147, 202, 224);
+    border: 1px solid black;
+}
+
+.header-img-container img {
+    width: 100%;
+    margin: auto;
+    display: block;
+}
+
+.fun {
+    position: relative;
+    clear: both;
+}
+
+#bottom-anchor {
+    margin-top: 35px;
+}

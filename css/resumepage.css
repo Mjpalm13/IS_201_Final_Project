@@ -1,0 +1,41 @@
+p{
+    margin-left: 20px;
+}
+
+#top {
+    border: 1px solid black;
+}
+
+body {
+    background-color: whitesmoke;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 5px solid skyblue;
+    margin: 50px;
+    padding: 50px;
+}
+
+ol{
+    list-style-position: inside;
+}
+
+ul{
+    list-style-type: none;
+    padding-inline-start: 20px;
+    list-style-position: inside;
+}
+
+li{
+    font-size: 40;
+    list-style-position: inside;
+}
+
+.header-title {
+    text-align: center;
+    color: black;
+    background-color: rgb(147, 202, 224);
+    padding: 20px 20px 20px 20px;
+}
+
+.bread-crumb {
+    text-align: center;
+}
